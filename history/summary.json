@@ -4,7 +4,7 @@
     "url": "https://netboot.xyz",
     "icon": "https://favicons.githubusercontent.com/netboot.xyz",
     "slug": "netboot-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 138,
     "timeMonth": 119,
     "timeYear": 126,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-19": 0
+    }
   },
   {
     "name": "boot.netboot.xyz",
