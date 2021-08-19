@@ -4,19 +4,19 @@
     "url": "https://netboot.xyz",
     "icon": "https://favicons.githubusercontent.com/netboot.xyz",
     "slug": "netboot-xyz",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 126,
-    "timeDay": 71,
-    "timeWeek": 138,
-    "timeMonth": 119,
-    "timeYear": 126,
+    "time": 127,
+    "timeDay": 136,
+    "timeWeek": 146,
+    "timeMonth": 122,
+    "timeYear": 127,
     "dailyMinutesDown": {
-      "2021-08-19": 0
+      "2021-08-19": 10
     }
   },
   {
