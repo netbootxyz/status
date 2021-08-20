@@ -14,7 +14,7 @@ status-website:
   cname: status.netboot.xyz
   # Uncomment the following line if you don't have a custom domain and add your repo name
   #baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://netboot.xyz/img/nbxyz-logo.svg
   name: netboot.xyz
   introTitle: "**netboot.xyz** infrastructure status"
   introMessage: 
