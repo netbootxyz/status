@@ -2,7 +2,7 @@
   {
     "name": "netboot.xyz",
     "url": "https://netboot.xyz",
-    "icon": "https://favicons.githubusercontent.com/netboot.xyz",
+    "icon": "https://icons.duckduckgo.com/ip3/netboot.xyz.ico",
     "slug": "netboot-xyz",
     "status": "up",
     "uptime": "100.00%",
@@ -11,16 +11,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 121,
-    "timeDay": 105,
-    "timeWeek": 166,
-    "timeMonth": 134,
+    "timeDay": 134,
+    "timeWeek": 165,
+    "timeMonth": 135,
     "timeYear": 119,
     "dailyMinutesDown": {}
   },
   {
     "name": "boot.netboot.xyz",
     "url": "https://boot.netboot.xyz",
-    "icon": "https://favicons.githubusercontent.com/boot.netboot.xyz",
+    "icon": "https://icons.duckduckgo.com/ip3/boot.netboot.xyz.ico",
     "slug": "boot-netboot-xyz",
     "status": "up",
     "uptime": "100.00%",
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 153,
-    "timeDay": 211,
-    "timeWeek": 329,
-    "timeMonth": 182,
+    "timeDay": 216,
+    "timeWeek": 251,
+    "timeMonth": 186,
     "timeYear": 146,
     "dailyMinutesDown": {}
   }
